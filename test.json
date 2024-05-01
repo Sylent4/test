@@ -13,7 +13,7 @@
       "baseSpeed": 1.0,
       "recipes": [
         {
-          "firstItem": 1,
+          "firstItem": 1
         }
       ]
     },
@@ -21,13 +21,13 @@
       "name": "Stone",
       "id": 3,
       "baseDamage": 3.0,
-      "baseSpeed": 0.75,
+      "baseSpeed": 0.75
     },
     {
       "name": "Stone Blade",
       "id": 4,
       "baseDamage": 10.0,
-      "baseSpeed": 0.5,
+      "baseSpeed": 0.5
     },
     {
       "name": "Stone Sword",
@@ -41,4 +41,5 @@
         }
       ]
     }
+  ]
 }
